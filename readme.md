@@ -1,15 +1,6 @@
-# Laravel Quickstart - Basic
+# The Laravel Docker Edition – PHP 7 FPM + NGINX + POSTGRES
 
 ## Quck Installation
 
-    git clone https://github.com/laravel/quickstart-basic quickstart
+    docker-compose up -d --build
 
-    cd quickstart
-
-    composer install
-
-    php artisan migrate
-
-    php artisan serve
-
-[Complete Tutorial](https://laravel.com/docs/5.2/quickstart)
